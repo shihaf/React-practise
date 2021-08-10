@@ -1,0 +1,4 @@
+Run node on your system.
+Use command npx create-react-app app-name in your command prompt.
+Now switch to app-name folder and run command npm start to start the server and run react app.
+Now your application automatically runs on the port 3000.
